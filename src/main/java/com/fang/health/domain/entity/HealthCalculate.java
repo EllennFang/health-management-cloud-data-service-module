@@ -41,7 +41,7 @@ public class HealthCalculate {
     private String stress;
 
     /** 数据源 */
-    private String sourece;
+    private String source;
 
     /** 测量模型 （推理模型）*/
     private String model;

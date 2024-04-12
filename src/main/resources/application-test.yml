@@ -1,0 +1,10 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: HealthManagementCloudDataServiceModuleApplication
+  datasource:
+    url: jdbc:mysql://119.23.149.30:10031/health_management?characterEncoding=utf-8&serverTimezone=Asia/Shanghai
+    username: root
+    password: st8921yYusuJ5
+    driver-class-name: com.mysql.cj.jdbc.Driver
